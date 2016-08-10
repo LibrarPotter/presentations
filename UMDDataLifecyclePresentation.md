@@ -10,7 +10,7 @@ date: August 11, 2016
 + Simmons College, Masters in Library and Information Science
 + Earlham College, Bachelor of Arts
 + [My website](https://librarpotter.github.io/)
-+ @librarpotter
++ Twitter: @librarpotter
 
 # Typical data practices
 
