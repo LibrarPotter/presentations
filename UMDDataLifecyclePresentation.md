@@ -1,41 +1,25 @@
-UMD Data Lifecycle Presentation
+---
+title: Data Lifecycle Support in Libraries
+author: Megan Potterbusch
+date: August 11, 2016
+---
 
+# About Me
 
+## Megan Potterbusch
++ Simmons College, MS in Library and Information Science
++ Earlham College, BA in Women's Studies
 
-
-# Data finding
-
-Resources for finding and accessing data for reuse
-Information on how to reuse data
-
-# Data processing
-
-Processing data
-+ Tools 
-+ Techniquess 
-+ Skills training
-
-# Data Preservation
-
-## Data organizing best practices
-
-Storing data for researchers
-Advising on what data should be stored for greatest benefit (future other users or self use)
-
-## Choosing the right repository
-	Domain specific, institutional, or agnostic
-
-## Once the repository has been chosen: consulting on how to compliy with the requirements of the repository (many domain specific repos have specific -sometimes complex- requirements)
-
-_________________
-
-(from data.library.virginia.edu)
 
 # Proposal, Planning, and Writing
 
 ## Reference Consultations 
 ## Data Management Plans
-## (Ideally) selection of a data repository for data deposit
+## Choosing a data repository
++ Institutional
++ Domain specific
++ Domain agnostic
+## Consultation on compliance with repository requirements
 
 # Project Start Up
 ## Pre-project planning and organization
@@ -56,6 +40,7 @@ _________________
 # Data Sharing
 ## Education 
 + Value of depositing data
++ Choosing a repository
 + Citing or linking to preserved data
 + Copyright
 + Publisher requirements
@@ -67,15 +52,14 @@ _________________
 + Outline of data collection methods
 + Definition of units
 
-## Data deposit
+## Data deposit in archive
 Curation activites
 
-# End of Project
-## Deposit to Data Archive
-
-
 # Future of Data in Libraries
-## 
+## Support Researchers
+## Data preservation and access
+## Advocate for open science
 
 
-provides instruction in tools for data collection, description, analysis, and exploration, and coordinates closely with both technical and non-technical staff throughout UMD Libraries to deploy technical solutions for data management.
+# Questions?
+## Thank you
