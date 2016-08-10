@@ -1,0 +1,40 @@
+manage, analyze, share, communicate, and preserve their research data.
+
+
+provides instruction in tools for data collection, description, analysis, and exploration, and coordinates closely with both technical and non-technical staff throughout UMD Libraries to deploy technical solutions for data management.
+
+
+"Please describe the role libraries can play in all aspects of the data life cycle as well as the future of data in libraries"
+
+
+
+
+# Data finding
+
+Resources for finding and accessing data for reuse
+Information on how to reuse data
+
+# Data processing
+
+Processing data
++ Tools 
++ Techniquess 
++ Skills training
+
+# Data Preservation
+
+## Data organizing best practices
+
+Storing data for researchers
+Advising on what data should be stored for greatest benefit (future other users or self use)
+
+## Choosing the right repository
+	Domain specific, institutional, or agnostic
+
+## Once the repository has been chosen: consulting on how to compliy with the requirements of the repository (many domain specific repos have specific -sometimes complex- requirements)
+
+_________________
+
+(from data.library.virginia.edu)
+
+pandoc -t revealjs -s UMDDataLifecyclePresentation.md -o dataLifecyclePresentatin.html -V revealjs-url=./revealjs -V theme=moon
