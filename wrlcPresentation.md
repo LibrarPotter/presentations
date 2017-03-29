@@ -1,7 +1,7 @@
 ---
-title: Library Support of the Data Life Cycle
+title: OSF for Open Science and Collaboration
 author: Megan Potterbusch
-date: August 11, 2016
+date: March 29, 2017
 ---
 
 # About Me
@@ -13,7 +13,13 @@ date: August 11, 2016
 + Center for Open Science
 + Twitter: @librarpotter
 
+## Working with researchers at GW to integrate open practices and technology
+
+## Developing a toolkit for libraries around these services
+
 # Open Science Framework
+
+## Product of the Center for Open Science
 
 ## Flexible digital workspace that supports the entire research lifecycle
 
@@ -27,14 +33,14 @@ date: August 11, 2016
 ## Support whole research lifecycle
 Via OSF
 
-## Encourage: open practices
-
 ## Encourage: good stewardship
+
+## Encourage: open practices
 
 ## Encourage: discovery
 
 ## Researcher collaboration
-With librarians & each other
+With librarians & other researchers
 
 # Working with Researchers
 
@@ -58,7 +64,7 @@ With librarians & each other
 
 # Librarian Outreach
 
-## Getting feedback & increasing awareness
+## Increasing awareness & getting feedback
 
 ## 1-1 Conversations
 
@@ -81,11 +87,16 @@ With librarians & each other
 ## Suggestions?
 What would be useful to you?
 
-# Thank you!
+## Questions for you
++ What excites you about this work or the OSF?
++ What worries you about offering these services?
++ What areas do you want more information about?
 
-## Questions?
+# Questions for me?
 
-## Contact me:
+## Thank you!
+
+## Contact me
 <mpotterbusch@arl.org>
 
 @librarpotter
